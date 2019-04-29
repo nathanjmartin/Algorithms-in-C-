@@ -117,8 +117,15 @@
   <ItemGroup>
     <ClCompile Include="BFS.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="DFS.cpp" />
+    <ClCompile Include="dijkstra.cpp" />
+    <ClCompile Include="InsertionSort.cpp" />
+    <ClCompile Include="knapsack.cpp" />
     <ClCompile Include="Kruskal.cpp" />
+    <ClCompile Include="MergeSort.cpp" />
+    <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="SelectionSort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
