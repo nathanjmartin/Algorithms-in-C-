@@ -1,1 +1,2 @@
-﻿
+﻿  Kruskal.cpp
+c:\users\nathan martin\source\repos\algorithms\algorithms\kruskal.cpp(106): error C4700: uninitialized local variable 'E' used
