@@ -1,1 +1,0 @@
-//c++ implementation of the knapsack algorithm
